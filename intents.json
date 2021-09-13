@@ -34,7 +34,7 @@
       "who are u",
       "who r you"
     ],
-    "responses": ["I'm jolene's bot! Find her at https://jolenechong.github.io","someone kool built me"]
+    "responses": ["I'm jolene's bot! Find her at https://jolenechong.netlify.app","someone kool built me"]
   },
   {
     "tag": "portfolio",
