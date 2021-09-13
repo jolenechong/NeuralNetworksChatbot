@@ -1,12 +1,10 @@
 # Neural-Networks-Chatbot
 AI Chatbot built with Python using Neural Networks.
 <br> Dataset is quite small as of now! Will be updating it.
+<br>Date: September 2021 <br>
+Source Code: https://github.com/jolenechong/Neural-Networks-Chatbot <br>
 
-<br><br>
-Date: September 2021 <br>
-Source Code: https://github.com/jolenechong/ChatHealth <br>
-
-<img src='' alt="screenshot of chatbot responses"/>
+<img src='pythonChatbot.png' alt="screenshot of chatbot responses"/>
 
 ## Usage
 You  will first need to install a few modules
