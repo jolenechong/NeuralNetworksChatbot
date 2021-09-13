@@ -21,7 +21,8 @@
       "see you later",
       "im leaving",
       "have a good day",
-      "see ya"
+      "see ya",
+      "goodbye"
     ],
     "responses": ["Sad to see you go :(", "Talk to you later!","Bye!"]
   },
@@ -34,7 +35,15 @@
       "who are u",
       "who r you"
     ],
-    "responses": ["I'm jolene's bot! Find her at https://jolenechong.netlify.app","someone kool built me"]
+    "responses": ["I'm jolene's bot! Find her at https://jolenechong.netlify.app"]
+  },
+  {
+    "tag": "howBot",
+    "patterns": [
+      "how are you",
+      "how you feeling"
+    ],
+    "responses": ["im great!","im great, what about you?"]
   },
   {
     "tag": "portfolio",
@@ -43,7 +52,7 @@
       "can i see your portfolio",
       "do you have past works"
     ],
-    "responses": ["Yes! thanks for asking! Here are some past projects https://jolenechong.github.io"]
+    "responses": ["Yes! thanks for asking! Here are some past projects https://jolenechong.netlify.app"]
   },
   {
     "tag": "rant",
