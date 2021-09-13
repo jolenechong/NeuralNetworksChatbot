@@ -1,0 +1,76 @@
+{ "intents":  [
+  {
+    "tag": "greetings",
+    "patterns": [
+      "hello",
+      "hey",
+      "hi",
+      "good day",
+      "whatsup",
+      "how is it going",
+      "wassup"
+    ],
+    "responses": ["Hello!", "Hey!","What can I do for you?"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+      "bye",
+      "bye bye",
+      "cya",
+      "see you later",
+      "im leaving",
+      "have a good day",
+      "see ya"
+    ],
+    "responses": ["Sad to see you go :(", "Talk to you later!","Bye!"]
+  },
+  {
+    "tag": "whoBot",
+    "patterns": [
+      "who are you",
+      "who you",
+      "who r u",
+      "who are u",
+      "who r you"
+    ],
+    "responses": ["I'm jolene's bot! Find her at https://jolenechong.github.io","someone kool built me"]
+  },
+  {
+    "tag": "portfolio",
+    "patterns": [
+      "can i see your past projects",
+      "can i see your portfolio",
+      "do you have past works"
+    ],
+    "responses": ["Yes! thanks for asking! Here are some past projects https://jolenechong.github.io"]
+  },
+  {
+    "tag": "rant",
+    "patterns": [
+      "can i rant",
+      "want to let it off my chest",
+      "can we just talk",
+      "i have no one to talk to"
+    ],
+    "responses": ["i'm here for you","let me know whats on your mind","don't worry lets talk!"]
+  },
+  {
+    "tag": "feelings",
+    "patterns": [
+      "feeling",
+      "i dont know why",
+      "made me feel",
+      "i dont know what to do"
+    ],
+    "responses": ["i see...","hmm"]
+  },
+  {
+    "tag": "ranting",
+    "patterns": [
+      "everyone annoying",
+      "mean"
+    ],
+    "responses": ["oh no what happened?","hmm"]
+  }
+]}
